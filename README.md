@@ -1,7 +1,7 @@
 # Task - Employee team list using HTML CSS
 
-Ankush Darade
-https://ankush-darade.netlify.app/
+Ankush Darade <br>
+https://ankush-darade.netlify.app/ <br>
 https://github.com/ankushdarade84
 
 # Task Details
