@@ -5,13 +5,14 @@ https://ankush-darade.netlify.app/
 https://github.com/ankushdarade84
 
 # Task Details
- Project task is to develop a responsive web page for the Company Member Team Page. The 
+Task – 1 : Responsive Company Member Team Page
+Project task is to develop a responsive web page for the Company Member Team Page. The 
 design reference is provided in the attached file named "designed-1." Utilize HTML and CSS to bring 
 this design to life, ensuring responsiveness across various devices. This project allows you to showcase 
 your coding skills and creativity while adhering to the design reference.
 
 #Output
-web - https://employee-teamlist.netlify.app/ '\n'
+web - https://employee-teamlist.netlify.app/ <br>
 web - https://ankushdarade84.github.io/Employee-Team-List-web/
 
 ![image](https://github.com/ankushdarade84/Employee-Team-List-web/assets/82811718/3f23093d-0711-4d68-bb09-3a957d39acdd)
