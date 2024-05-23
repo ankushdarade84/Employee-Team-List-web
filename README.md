@@ -11,7 +11,7 @@ design reference is provided in the attached file named "designed-1." Utilize HT
 this design to life, ensuring responsiveness across various devices. This project allows you to showcase 
 your coding skills and creativity while adhering to the design reference.
 
-#Output
+# Output
 web - https://employee-teamlist.netlify.app/ <br>
 web - https://ankushdarade84.github.io/Employee-Team-List-web/
 
