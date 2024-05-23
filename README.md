@@ -1,6 +1,6 @@
 # Task - Employee team list using HTML CSS
 
-#Ankush Darade
+Ankush Darade
 https://ankush-darade.netlify.app/
 https://github.com/ankushdarade84
 
@@ -11,7 +11,7 @@ this design to life, ensuring responsiveness across various devices. This projec
 your coding skills and creativity while adhering to the design reference.
 
 #Output
-web - https://employee-teamlist.netlify.app/
+web - https://employee-teamlist.netlify.app/ \n
 web - https://ankushdarade84.github.io/Employee-Team-List-web/
 
 ![image](https://github.com/ankushdarade84/Employee-Team-List-web/assets/82811718/3f23093d-0711-4d68-bb09-3a957d39acdd)
